@@ -1,0 +1,4 @@
+Anchor_rod
+Gangue
+Foreign_body
+Wood
